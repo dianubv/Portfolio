@@ -55,7 +55,7 @@ export default {
             },
             {
                 label: 'email',
-                href: 'diane.bouffardvercelli@gmail.com'
+                href: "mailto:diane.bouffardvercelli@gmail.com"
             },
             {
                 label: 'IFT-website',
