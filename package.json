@@ -9,7 +9,7 @@
     "fmt": "npx prettier --write --check .",
     "generate": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt generate",
     "start": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt start && npx nuxt generate",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt build && npx nuxt generate",
     "dev": "export NODE_OPTIONS=--openssl-legacy-provider && npx nuxt dev"
   },
   "dependencies": {
