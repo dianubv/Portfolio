@@ -1,0 +1,30 @@
+[
+  {
+    "name": "works-brg",
+    "path": "/works/brg",
+    "component": "/home/diane/Documents/MDT/Portfolio/pages/works/brg.vue",
+    "chunkName": "pages/works/brg",
+    "_name": "_75f4a298"
+  },
+  {
+    "name": "works-heating-pad",
+    "path": "/works/heating-pad",
+    "component": "/home/diane/Documents/MDT/Portfolio/pages/works/heating-pad.vue",
+    "chunkName": "pages/works/heating-pad",
+    "_name": "_5162f956"
+  },
+  {
+    "name": "works-workPage",
+    "path": "/works/workPage",
+    "component": "/home/diane/Documents/MDT/Portfolio/pages/works/workPage.vue",
+    "chunkName": "pages/works/workPage",
+    "_name": "_32feed1a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/diane/Documents/MDT/Portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9007b308"
+  }
+]

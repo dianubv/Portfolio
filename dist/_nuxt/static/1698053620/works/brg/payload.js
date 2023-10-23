@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/brg", {data:[{_img:{}}],fetch:{},mutations:void 0});

@@ -7,8 +7,8 @@
     "static": "python3 -m 'http.server' -d dist/ 8000",
     "deploy": "npx gh-pages -d dist/ -b static",
     "fmt": "npx prettier --write --check .",
-    "gen": "npx nuxt generate",
-    "start": "npx nuxt start",
+    "generate": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt generate",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt start",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt build",
     "dev": "export NODE_OPTIONS=--openssl-legacy-provider && npx nuxt dev"
   },
@@ -43,10 +43,15 @@
     "glslify-loader": "^2.0.0",
     "nuxt-gsap-module": "^1.6.0",
     "nuxt-helmet": "3.0.0",
+    "postcss": "^8.4.31",
     "postcss-logical": "^5.0.4",
     "prettier": "^2.5.1",
     "raw-loader": "^4.0.2",
     "sass": "^1.49.9",
     "sass-loader": "10"
+  },
+  "resolutions": {
+    "@babel/core": "7.13.15",
+    "@babel/preset-env": "7.13.15"
   }
 }
