@@ -9,8 +9,8 @@
     "fmt": "npx prettier --write --check .",
     "gen": "npx nuxt generate",
     "start": "npx nuxt start",
-    "build": "npx nuxt build",
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider & npx nuxt dev"
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider  && npx nuxt build",
+    "dev": "export NODE_OPTIONS=--openssl-legacy-provider && npx nuxt dev"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",

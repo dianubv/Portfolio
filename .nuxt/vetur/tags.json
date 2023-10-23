@@ -1,0 +1,44 @@
+{
+  "VAbout": {
+    "description": "Auto imported from components/V-About.vue"
+  },
+  "VContact": {
+    "description": "Auto imported from components/V-Contact.vue"
+  },
+  "VFooterSocialLink": {
+    "description": "Auto imported from components/V-Footer-Social-Link.vue"
+  },
+  "VFooter": {
+    "description": "Auto imported from components/V-Footer.vue"
+  },
+  "VH2": {
+    "description": "Auto imported from components/V-H2.vue"
+  },
+  "VHeaderBackground": {
+    "description": "Auto imported from components/V-Header-Background.vue"
+  },
+  "VHeader": {
+    "description": "Auto imported from components/V-Header.vue"
+  },
+  "VLoader": {
+    "description": "Auto imported from components/V-Loader.vue"
+  },
+  "VMenu": {
+    "description": "Auto imported from components/V-Menu.vue"
+  },
+  "VNavbar": {
+    "description": "Auto imported from components/V-Navbar.vue"
+  },
+  "VPointer": {
+    "description": "Auto imported from components/V-Pointer.vue"
+  },
+  "VScrollDown": {
+    "description": "Auto imported from components/V-Scroll-Down.vue"
+  },
+  "VWorkItem": {
+    "description": "Auto imported from components/V-Work-Item.vue"
+  },
+  "VWork": {
+    "description": "Auto imported from components/V-Work.vue"
+  }
+}
